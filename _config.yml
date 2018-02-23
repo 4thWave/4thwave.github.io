@@ -1,6 +1,6 @@
 # Site settings
 title: "4thwave Ventures"
-email: "ted@4thwaveiot.com"
+email: "info@4thwaveiot.com"
 description: "4thwave is a intername software company" 
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
